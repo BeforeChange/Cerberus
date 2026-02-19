@@ -1,0 +1,13 @@
+users:
+  USER_ALREADY_EXISTS: "User already exists."
+
+auth:
+  INVALID_CREDENTIALS: "Invalid email or password."
+
+validation:
+  EMAIL_REQUIRED: "Email is required."
+  EMAIL_INVALID: "Invalid email address."
+  PASSWORD_REQUIRED: "Password is required."
+  PASSWORD_TOO_WEAK: "Password is too weak."
+  PASSWORD_MISMATCH: "Passwords do not match."
+  PASSWORD_CONFIRM_REQUIRED: "Password confirmation is required."

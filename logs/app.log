@@ -1,0 +1,415 @@
+[2026-02-17 08:01:19] INFO: Access: GET / from ::1
+[2026-02-17 08:03:41] INFO: Access: GET / from ::1
+[2026-02-17 08:03:42] INFO: Access: GET / from ::1
+[2026-02-17 08:03:59] INFO: Access: GET / from ::1
+[2026-02-17 08:04:00] INFO: Access: GET / from ::1
+[2026-02-17 08:04:00] INFO: Access: GET / from ::1
+[2026-02-17 08:04:20] INFO: Access: GET / from ::1
+[2026-02-17 08:14:30] INFO: Access: GET / from ::1
+[2026-02-17 08:14:31] INFO: Access: GET / from ::1
+[2026-02-17 08:14:31] INFO: Access: GET / from ::1
+[2026-02-17 08:14:31] INFO: Access: GET / from ::1
+[2026-02-17 08:14:32] INFO: Access: GET / from ::1
+[2026-02-17 08:14:32] INFO: Access: GET / from ::1
+[2026-02-17 08:14:32] INFO: Access: GET / from ::1
+[2026-02-17 08:14:32] INFO: Access: GET / from ::1
+[2026-02-17 08:14:32] INFO: Access: GET / from ::1
+[2026-02-17 08:14:36] INFO: Access: GET / from ::1
+[2026-02-17 08:14:40] INFO: Access: GET /login from ::1
+[2026-02-17 08:14:40] INFO: UserService initialized
+[2026-02-17 08:14:44] INFO: Access: POST /login from ::1
+[2026-02-17 08:14:44] INFO: UserService initialized
+[2026-02-17 08:14:44] INFO: Authenticating user
+[2026-02-17 08:14:44] WARNING: Authentication failed: incorrect password
+[2026-02-17 08:15:43] INFO: Access: POST /login from ::1
+[2026-02-17 08:15:43] INFO: UserService initialized
+[2026-02-17 08:15:43] INFO: Authenticating user
+[2026-02-17 08:15:43] WARNING: Authentication failed: incorrect password
+[2026-02-17 08:15:51] INFO: Access: POST /login from ::1
+[2026-02-17 08:15:51] INFO: UserService initialized
+[2026-02-17 08:15:51] INFO: Authenticating user
+[2026-02-17 08:15:51] WARNING: Authentication failed: incorrect password
+[2026-02-17 08:15:55] INFO: Access: POST /login from ::1
+[2026-02-17 08:15:55] INFO: UserService initialized
+[2026-02-17 08:15:55] INFO: Authenticating user
+[2026-02-17 08:15:55] WARNING: Authentication failed: incorrect password
+[2026-02-17 08:16:28] INFO: Access: GET /register from ::1
+[2026-02-17 08:16:28] INFO: UserService initialized
+[2026-02-17 08:16:35] INFO: Access: POST /register from ::1
+[2026-02-17 08:16:35] INFO: UserService initialized
+[2026-02-17 08:16:39] INFO: Access: POST /register from ::1
+[2026-02-17 08:16:39] INFO: UserService initialized
+[2026-02-17 08:16:43] INFO: Access: POST /register from ::1
+[2026-02-17 08:16:43] INFO: UserService initialized
+[2026-02-17 08:16:55] INFO: Access: POST /register from ::1
+[2026-02-17 08:16:55] INFO: UserService initialized
+[2026-02-17 08:16:57] INFO: Access: POST /register from ::1
+[2026-02-17 08:16:57] INFO: UserService initialized
+[2026-02-17 08:16:57] INFO: Attempting to create user
+[2026-02-17 08:16:57] DEBUG: Checking if user exists by email
+[2026-02-17 08:16:57] INFO: User exists check
+[2026-02-17 08:16:57] WARNING: Cannot create user, email already in use
+[2026-02-17 08:17:04] INFO: Access: POST /register from ::1
+[2026-02-17 08:17:04] INFO: UserService initialized
+[2026-02-17 08:17:04] INFO: Attempting to create user
+[2026-02-17 08:17:04] DEBUG: Checking if user exists by email
+[2026-02-17 08:17:04] INFO: User exists check
+[2026-02-17 08:17:04] DEBUG: [SQL]
+[2026-02-17 08:21:07] INFO: Access: POST /register from ::1
+[2026-02-17 08:21:07] INFO: UserService initialized
+[2026-02-17 08:21:07] INFO: Attempting to create user
+[2026-02-17 08:21:07] DEBUG: Checking if user exists by email
+[2026-02-17 08:21:07] INFO: User exists check
+[2026-02-17 08:21:08] DEBUG: [SQL]
+[2026-02-17 08:21:08] INFO: User successfully created
+[2026-02-17 08:21:08] INFO: Access: GET /login from ::1
+[2026-02-17 08:21:08] INFO: UserService initialized
+[2026-02-17 08:37:17] INFO: Access: POST /login from ::1
+[2026-02-17 08:37:17] INFO: UserService initialized
+[2026-02-17 08:37:17] INFO: Authenticating user
+[2026-02-17 08:37:17] WARNING: Authentication failed: user not found
+[2026-02-17 08:37:26] INFO: Access: POST /login from ::1
+[2026-02-17 08:37:26] INFO: UserService initialized
+[2026-02-17 08:37:26] INFO: Authenticating user
+[2026-02-17 08:37:26] WARNING: Authentication failed: incorrect password
+[2026-02-17 08:37:34] INFO: Access: POST /login from ::1
+[2026-02-17 08:37:34] INFO: UserService initialized
+[2026-02-17 08:37:34] INFO: Authenticating user
+[2026-02-17 08:37:34] WARNING: Authentication failed: incorrect password
+[2026-02-17 08:37:39] INFO: Access: GET / from ::1
+[2026-02-17 08:37:42] INFO: Access: GET /login from ::1
+[2026-02-17 08:37:42] INFO: UserService initialized
+[2026-02-17 09:43:37] INFO: Access: GET / from ::1
+[2026-02-17 09:43:39] INFO: Access: GET / from ::1
+[2026-02-17 09:43:40] INFO: Access: GET / from ::1
+[2026-02-17 09:46:35] INFO: Access: GET / from ::1
+[2026-02-17 09:46:35] INFO: Access: GET / from ::1
+[2026-02-17 09:53:59] INFO: Access: GET / from ::1
+[2026-02-17 09:54:00] INFO: Access: GET / from ::1
+[2026-02-17 09:56:27] INFO: Access: GET / from ::1
+[2026-02-17 09:56:27] INFO: Access: GET /unsplash-photo-1.jpg from ::1
+[2026-02-17 09:56:27] INFO: Access: GET /unsplash-photo-2.jpg from ::1
+[2026-02-17 09:56:27] INFO: Access: GET /unsplash-photo-3.jpg from ::1
+[2026-02-17 09:56:27] INFO: Access: GET / from ::1
+[2026-02-17 09:56:27] INFO: Access: GET /unsplash-photo-3.jpg from ::1
+[2026-02-17 09:56:27] INFO: Access: GET /unsplash-photo-1.jpg from ::1
+[2026-02-17 09:56:27] INFO: Access: GET /unsplash-photo-2.jpg from ::1
+[2026-02-17 09:56:38] INFO: Access: GET / from ::1
+[2026-02-17 09:56:38] INFO: Access: GET /unsplash-photo-1.jpg from ::1
+[2026-02-17 09:56:38] INFO: Access: GET /unsplash-photo-2.jpg from ::1
+[2026-02-17 09:56:38] INFO: Access: GET /unsplash-photo-3.jpg from ::1
+[2026-02-17 09:56:38] INFO: Access: GET / from ::1
+[2026-02-17 09:56:38] INFO: Access: GET /unsplash-photo-3.jpg from ::1
+[2026-02-17 09:56:38] INFO: Access: GET /unsplash-photo-2.jpg from ::1
+[2026-02-17 09:56:38] INFO: Access: GET /unsplash-photo-1.jpg from ::1
+[2026-02-17 09:57:54] INFO: Access: GET / from ::1
+[2026-02-17 09:57:54] INFO: Access: GET /unsplash-photo-1.jpg from ::1
+[2026-02-17 09:57:54] INFO: Access: GET /unsplash-photo-2.jpg from ::1
+[2026-02-17 09:57:54] INFO: Access: GET /unsplash-photo-3.jpg from ::1
+[2026-02-17 09:57:56] INFO: Access: GET / from ::1
+[2026-02-17 09:57:56] INFO: Access: GET /unsplash-photo-2.jpg from ::1
+[2026-02-17 09:57:56] INFO: Access: GET /unsplash-photo-1.jpg from ::1
+[2026-02-17 09:57:56] INFO: Access: GET /unsplash-photo-3.jpg from ::1
+[2026-02-17 09:59:07] INFO: Access: GET / from ::1
+[2026-02-17 09:59:08] INFO: Access: GET / from ::1
+[2026-02-17 10:00:50] INFO: Access: GET / from ::1
+[2026-02-17 10:00:50] INFO: Access: GET / from ::1
+[2026-02-17 10:00:51] INFO: Access: GET / from ::1
+[2026-02-17 10:00:51] INFO: Access: GET / from ::1
+[2026-02-17 10:02:35] INFO: Access: GET / from ::1
+[2026-02-17 10:02:35] INFO: Access: GET / from ::1
+[2026-02-17 10:02:35] INFO: Access: GET / from ::1
+[2026-02-17 10:02:54] INFO: Access: GET / from ::1
+[2026-02-17 10:02:55] INFO: Access: GET / from ::1
+[2026-02-17 10:02:55] INFO: Access: GET / from ::1
+[2026-02-17 10:03:05] INFO: Access: GET / from ::1
+[2026-02-17 10:03:13] INFO: Access: GET / from ::1
+[2026-02-17 10:03:14] INFO: Access: GET / from ::1
+[2026-02-17 10:03:15] INFO: Access: GET / from ::1
+[2026-02-17 10:03:15] INFO: Access: GET / from ::1
+[2026-02-17 10:03:15] INFO: Access: GET / from ::1
+[2026-02-17 10:03:17] INFO: Access: GET / from ::1
+[2026-02-17 10:03:18] INFO: Access: GET / from ::1
+[2026-02-17 10:04:21] INFO: Access: GET / from ::1
+[2026-02-17 10:04:22] INFO: Access: GET / from ::1
+[2026-02-17 10:04:22] INFO: Access: GET / from ::1
+[2026-02-17 10:04:31] INFO: Access: GET / from ::1
+[2026-02-17 10:04:31] INFO: Access: GET / from ::1
+[2026-02-17 10:04:32] INFO: Access: GET / from ::1
+[2026-02-17 10:04:32] INFO: Access: GET / from ::1
+[2026-02-17 10:04:33] INFO: Access: GET / from ::1
+[2026-02-17 10:04:33] INFO: Access: GET / from ::1
+[2026-02-17 10:04:33] INFO: Access: GET / from ::1
+[2026-02-17 10:04:34] INFO: Access: GET / from ::1
+[2026-02-17 10:04:34] INFO: Access: GET / from ::1
+[2026-02-17 10:04:34] INFO: Access: GET / from ::1
+[2026-02-17 10:04:34] INFO: Access: GET / from ::1
+[2026-02-17 10:04:49] INFO: Access: GET / from ::1
+[2026-02-17 10:04:49] INFO: Access: GET / from ::1
+[2026-02-17 10:04:49] INFO: Access: GET / from ::1
+[2026-02-17 10:05:09] INFO: Access: GET / from ::1
+[2026-02-17 10:05:09] INFO: Access: GET / from ::1
+[2026-02-17 10:06:53] INFO: Access: GET / from ::1
+[2026-02-17 10:06:53] INFO: Access: GET / from ::1
+[2026-02-17 10:06:54] INFO: Access: GET / from ::1
+[2026-02-17 10:06:54] INFO: Access: GET / from ::1
+[2026-02-17 10:06:55] INFO: Access: GET / from ::1
+[2026-02-17 10:06:55] INFO: Access: GET / from ::1
+[2026-02-17 10:06:55] INFO: Access: GET / from ::1
+[2026-02-17 10:06:55] INFO: Access: GET / from ::1
+[2026-02-17 10:06:55] INFO: Access: GET / from ::1
+[2026-02-17 10:06:55] INFO: Access: GET / from ::1
+[2026-02-17 10:06:56] INFO: Access: GET / from ::1
+[2026-02-17 10:06:56] INFO: Access: GET / from ::1
+[2026-02-17 10:06:56] INFO: Access: GET / from ::1
+[2026-02-17 10:06:56] INFO: Access: GET / from ::1
+[2026-02-17 10:06:56] INFO: Access: GET / from ::1
+[2026-02-17 10:06:56] INFO: Access: GET / from ::1
+[2026-02-17 10:07:15] INFO: Access: GET / from ::1
+[2026-02-17 10:07:16] INFO: Access: GET / from ::1
+[2026-02-17 10:07:16] INFO: Access: GET / from ::1
+[2026-02-17 10:07:16] INFO: Access: GET / from ::1
+[2026-02-17 10:07:16] INFO: Access: GET / from ::1
+[2026-02-17 10:07:16] INFO: Access: GET / from ::1
+[2026-02-17 10:07:16] INFO: Access: GET / from ::1
+[2026-02-17 10:07:16] INFO: Access: GET / from ::1
+[2026-02-17 10:07:16] INFO: Access: GET / from ::1
+[2026-02-17 10:07:16] INFO: Access: GET / from ::1
+[2026-02-17 10:08:13] INFO: Access: GET / from ::1
+[2026-02-17 10:08:28] INFO: Access: GET / from ::1
+[2026-02-17 10:08:29] INFO: Access: GET / from ::1
+[2026-02-17 10:08:29] INFO: Access: GET / from ::1
+[2026-02-17 10:08:29] INFO: Access: GET / from ::1
+[2026-02-17 10:10:03] INFO: Access: GET / from ::1
+[2026-02-17 10:10:04] INFO: Access: GET / from ::1
+[2026-02-17 10:10:04] INFO: Access: GET / from ::1
+[2026-02-17 10:10:04] INFO: Access: GET / from ::1
+[2026-02-17 10:10:04] INFO: Access: GET / from ::1
+[2026-02-17 10:10:04] INFO: Access: GET / from ::1
+[2026-02-17 10:10:05] INFO: Access: GET / from ::1
+[2026-02-17 10:10:09] INFO: Access: GET / from ::1
+[2026-02-17 10:10:09] INFO: Access: GET / from ::1
+[2026-02-17 10:10:10] INFO: Access: GET / from ::1
+[2026-02-17 10:10:10] INFO: Access: GET / from ::1
+[2026-02-17 10:10:10] INFO: Access: GET / from ::1
+[2026-02-17 10:10:11] INFO: Access: GET / from ::1
+[2026-02-17 10:10:11] INFO: Access: GET / from ::1
+[2026-02-17 10:10:11] INFO: Access: GET / from ::1
+[2026-02-17 10:10:11] INFO: Access: GET / from ::1
+[2026-02-17 10:10:12] INFO: Access: GET / from ::1
+[2026-02-17 10:10:12] INFO: Access: GET / from ::1
+[2026-02-17 10:10:12] INFO: Access: GET / from ::1
+[2026-02-17 10:10:17] INFO: Access: GET / from ::1
+[2026-02-17 10:10:18] INFO: Access: GET / from ::1
+[2026-02-17 10:10:25] INFO: Access: GET / from ::1
+[2026-02-17 10:10:26] INFO: Access: GET / from ::1
+[2026-02-17 10:10:26] INFO: Access: GET / from ::1
+[2026-02-17 10:10:31] INFO: Access: GET / from ::1
+[2026-02-17 10:10:34] INFO: Access: GET / from ::1
+[2026-02-17 10:10:44] INFO: Access: GET / from ::1
+[2026-02-17 10:10:44] INFO: Access: GET / from ::1
+[2026-02-17 10:10:44] INFO: Access: GET / from ::1
+[2026-02-17 10:10:48] INFO: Access: GET / from ::1
+[2026-02-17 10:14:25] INFO: Access: GET / from ::1
+[2026-02-17 10:14:25] INFO: Access: GET / from ::1
+[2026-02-17 10:14:26] INFO: Access: GET / from ::1
+[2026-02-17 10:14:26] INFO: Access: GET / from ::1
+[2026-02-17 10:14:26] INFO: Access: GET / from ::1
+[2026-02-17 10:14:26] INFO: Access: GET / from ::1
+[2026-02-17 10:14:26] INFO: Access: GET / from ::1
+[2026-02-17 10:14:27] INFO: Access: GET / from ::1
+[2026-02-17 10:14:27] INFO: Access: GET / from ::1
+[2026-02-17 10:15:00] INFO: Access: GET / from ::1
+[2026-02-17 10:15:01] INFO: Access: GET / from ::1
+[2026-02-17 10:15:01] INFO: Access: GET / from ::1
+[2026-02-17 10:15:01] INFO: Access: GET / from ::1
+[2026-02-17 10:15:01] INFO: Access: GET / from ::1
+[2026-02-17 10:15:01] INFO: Access: GET / from ::1
+[2026-02-17 10:15:02] INFO: Access: GET / from ::1
+[2026-02-17 10:15:02] INFO: Access: GET / from ::1
+[2026-02-17 10:15:02] INFO: Access: GET / from ::1
+[2026-02-17 10:15:15] INFO: Access: GET / from ::1
+[2026-02-17 10:16:14] INFO: Access: GET / from ::1
+[2026-02-17 10:16:18] INFO: Access: GET / from ::1
+[2026-02-17 10:16:19] INFO: Access: GET / from ::1
+[2026-02-17 10:16:21] INFO: Access: GET / from ::1
+[2026-02-17 10:17:04] INFO: Access: GET / from ::1
+[2026-02-17 10:17:05] INFO: Access: GET / from ::1
+[2026-02-17 10:17:05] INFO: Access: GET / from ::1
+[2026-02-17 10:17:11] INFO: Access: GET / from ::1
+[2026-02-17 10:17:11] INFO: Access: GET / from ::1
+[2026-02-17 10:17:11] INFO: Access: GET / from ::1
+[2026-02-17 10:17:11] INFO: Access: GET / from ::1
+[2026-02-17 10:17:11] INFO: Access: GET / from ::1
+[2026-02-17 10:18:56] INFO: Access: GET / from ::1
+[2026-02-17 10:19:00] INFO: Access: GET / from ::1
+[2026-02-17 10:19:01] INFO: Access: GET / from ::1
+[2026-02-17 10:19:01] INFO: Access: GET / from ::1
+[2026-02-17 10:19:09] INFO: Access: GET / from ::1
+[2026-02-17 10:19:10] INFO: Access: GET / from ::1
+[2026-02-17 10:19:15] INFO: Access: GET / from ::1
+[2026-02-17 10:19:15] INFO: Access: GET / from ::1
+[2026-02-17 10:19:15] INFO: Access: GET / from ::1
+[2026-02-17 10:19:15] INFO: Access: GET / from ::1
+[2026-02-17 10:19:23] INFO: Access: GET / from ::1
+[2026-02-17 10:19:24] INFO: Access: GET / from ::1
+[2026-02-17 10:19:24] INFO: Access: GET / from ::1
+[2026-02-17 10:19:29] INFO: Access: GET / from ::1
+[2026-02-17 10:19:30] INFO: Access: GET / from ::1
+[2026-02-17 10:19:44] INFO: Access: GET / from ::1
+[2026-02-17 10:19:45] INFO: Access: GET / from ::1
+[2026-02-17 10:19:45] INFO: Access: GET / from ::1
+[2026-02-17 10:19:45] INFO: Access: GET / from ::1
+[2026-02-17 10:19:52] INFO: Access: GET / from ::1
+[2026-02-17 10:19:53] INFO: Access: GET / from ::1
+[2026-02-17 10:19:53] INFO: Access: GET / from ::1
+[2026-02-17 10:19:56] INFO: Access: GET / from ::1
+[2026-02-17 10:19:56] INFO: Access: GET / from ::1
+[2026-02-17 10:19:57] INFO: Access: GET / from ::1
+[2026-02-17 10:19:57] INFO: Access: GET / from ::1
+[2026-02-17 10:20:36] INFO: Access: GET / from ::1
+[2026-02-17 10:20:36] INFO: Access: GET / from ::1
+[2026-02-17 10:20:37] INFO: Access: GET / from ::1
+[2026-02-17 10:20:37] INFO: Access: GET / from ::1
+[2026-02-17 10:20:45] INFO: Access: GET / from ::1
+[2026-02-17 10:20:46] INFO: Access: GET / from ::1
+[2026-02-17 10:20:46] INFO: Access: GET / from ::1
+[2026-02-17 10:20:48] INFO: Access: GET / from ::1
+[2026-02-17 10:20:48] INFO: Access: GET / from ::1
+[2026-02-17 10:21:13] INFO: Access: GET / from ::1
+[2026-02-17 10:21:13] INFO: Access: GET / from ::1
+[2026-02-17 10:21:13] INFO: Access: GET / from ::1
+[2026-02-17 10:22:14] INFO: Access: GET / from ::1
+[2026-02-17 10:22:14] INFO: Access: GET / from ::1
+[2026-02-17 10:22:15] INFO: Access: GET / from ::1
+[2026-02-17 10:22:15] INFO: Access: GET / from ::1
+[2026-02-17 10:22:15] INFO: Access: GET / from ::1
+[2026-02-17 10:22:15] INFO: Access: GET / from ::1
+[2026-02-17 10:22:15] INFO: Access: GET / from ::1
+[2026-02-17 10:22:15] INFO: Access: GET / from ::1
+[2026-02-17 10:22:16] INFO: Access: GET / from ::1
+[2026-02-17 10:22:16] INFO: Access: GET / from ::1
+[2026-02-17 10:22:16] INFO: Access: GET / from ::1
+[2026-02-17 10:22:16] INFO: Access: GET / from ::1
+[2026-02-17 10:22:16] INFO: Access: GET / from ::1
+[2026-02-17 10:22:48] INFO: Access: GET / from ::1
+[2026-02-17 10:22:48] INFO: Access: GET / from ::1
+[2026-02-17 10:22:48] INFO: Access: GET / from ::1
+[2026-02-17 10:23:00] INFO: Access: GET / from ::1
+[2026-02-17 10:23:01] INFO: Access: GET / from ::1
+[2026-02-17 10:23:01] INFO: Access: GET / from ::1
+[2026-02-17 10:23:19] INFO: Access: GET / from ::1
+[2026-02-17 10:23:19] INFO: Access: GET / from ::1
+[2026-02-17 10:23:25] INFO: Access: GET / from ::1
+[2026-02-17 10:23:25] INFO: Access: GET / from ::1
+[2026-02-17 10:23:25] INFO: Access: GET / from ::1
+[2026-02-17 10:23:25] INFO: Access: GET / from ::1
+[2026-02-17 10:23:26] INFO: Access: GET / from ::1
+[2026-02-17 10:23:26] INFO: Access: GET / from ::1
+[2026-02-17 10:23:26] INFO: Access: GET / from ::1
+[2026-02-17 10:23:26] INFO: Access: GET / from ::1
+[2026-02-17 10:23:26] INFO: Access: GET / from ::1
+[2026-02-17 10:25:09] INFO: Access: GET / from ::1
+[2026-02-17 10:25:10] INFO: Access: GET / from ::1
+[2026-02-17 10:25:09] INFO: Access: GET / from ::1
+[2026-02-17 10:25:35] INFO: Access: GET /login from ::1
+[2026-02-17 10:25:35] INFO: UserService initialized
+[2026-02-17 10:26:45] INFO: Access: GET /login from ::1
+[2026-02-17 10:26:45] INFO: UserService initialized
+[2026-02-17 10:26:46] INFO: Access: GET /login from ::1
+[2026-02-17 10:26:46] INFO: UserService initialized
+[2026-02-17 10:26:46] INFO: Access: GET /login from ::1
+[2026-02-17 10:26:46] INFO: UserService initialized
+[2026-02-17 10:27:29] INFO: Access: GET /login from ::1
+[2026-02-17 10:27:29] INFO: UserService initialized
+[2026-02-17 10:27:30] INFO: Access: GET /login from ::1
+[2026-02-17 10:27:30] INFO: UserService initialized
+[2026-02-17 10:27:30] INFO: Access: GET /login from ::1
+[2026-02-17 10:27:30] INFO: UserService initialized
+[2026-02-17 10:27:30] INFO: Access: GET /login from ::1
+[2026-02-17 10:27:30] INFO: UserService initialized
+[2026-02-17 10:28:34] INFO: Access: GET /login from ::1
+[2026-02-17 10:28:34] INFO: UserService initialized
+[2026-02-17 10:28:34] INFO: Access: GET /login from ::1
+[2026-02-17 10:28:34] INFO: UserService initialized
+[2026-02-17 10:28:34] INFO: Access: GET /login from ::1
+[2026-02-17 10:28:34] INFO: UserService initialized
+[2026-02-17 10:28:34] INFO: Access: GET /login from ::1
+[2026-02-17 10:28:34] INFO: UserService initialized
+[2026-02-17 10:28:35] INFO: Access: GET /login from ::1
+[2026-02-17 10:28:35] INFO: UserService initialized
+[2026-02-17 10:28:35] INFO: Access: GET /login from ::1
+[2026-02-17 10:28:35] INFO: UserService initialized
+[2026-02-17 10:30:48] INFO: Access: GET /login from ::1
+[2026-02-17 10:30:48] INFO: UserService initialized
+[2026-02-17 10:30:49] INFO: Access: GET /login from ::1
+[2026-02-17 10:30:49] INFO: UserService initialized
+[2026-02-17 10:30:49] INFO: Access: GET /login from ::1
+[2026-02-17 10:30:49] INFO: UserService initialized
+[2026-02-17 10:31:53] INFO: Access: GET /login from ::1
+[2026-02-17 10:31:53] INFO: UserService initialized
+[2026-02-17 10:32:23] INFO: Access: GET /login from ::1
+[2026-02-17 10:32:23] INFO: UserService initialized
+[2026-02-17 10:32:28] INFO: Access: GET / from ::1
+[2026-02-17 10:32:34] INFO: Access: GET / from ::1
+[2026-02-17 10:32:39] INFO: Access: GET /login from ::1
+[2026-02-17 10:32:39] INFO: UserService initialized
+[2026-02-17 10:33:59] INFO: Access: GET /login from ::1
+[2026-02-17 10:33:59] INFO: UserService initialized
+[2026-02-17 10:33:59] INFO: Access: GET /login from ::1
+[2026-02-17 10:33:59] INFO: UserService initialized
+[2026-02-17 10:34:00] INFO: Access: GET /login from ::1
+[2026-02-17 10:34:00] INFO: UserService initialized
+[2026-02-17 10:34:00] INFO: Access: GET /login from ::1
+[2026-02-17 10:34:00] INFO: UserService initialized
+[2026-02-17 10:34:00] INFO: Access: GET /login from ::1
+[2026-02-17 10:34:00] INFO: UserService initialized
+[2026-02-17 10:34:00] INFO: Access: GET /login from ::1
+[2026-02-17 10:34:00] INFO: UserService initialized
+[2026-02-17 10:34:00] INFO: Access: GET /login from ::1
+[2026-02-17 10:34:00] INFO: UserService initialized
+[2026-02-17 10:34:00] INFO: Access: GET /login from ::1
+[2026-02-17 10:34:00] INFO: UserService initialized
+[2026-02-17 10:34:00] INFO: Access: GET /login from ::1
+[2026-02-17 10:34:00] INFO: UserService initialized
+[2026-02-17 10:34:01] INFO: Access: GET /login from ::1
+[2026-02-17 10:34:01] INFO: UserService initialized
+[2026-02-17 10:34:01] INFO: Access: GET /login from ::1
+[2026-02-17 10:34:01] INFO: UserService initialized
+[2026-02-17 10:34:01] INFO: Access: GET /login from ::1
+[2026-02-17 10:34:01] INFO: UserService initialized
+[2026-02-17 10:34:01] INFO: Access: GET /login from ::1
+[2026-02-17 10:34:01] INFO: UserService initialized
+[2026-02-17 10:34:05] INFO: Access: GET /register from ::1
+[2026-02-17 10:34:05] INFO: UserService initialized
+[2026-02-17 10:34:48] INFO: Access: GET /register from ::1
+[2026-02-17 10:34:48] INFO: UserService initialized
+[2026-02-17 10:34:49] INFO: Access: GET /register from ::1
+[2026-02-17 10:34:49] INFO: UserService initialized
+[2026-02-17 10:34:49] INFO: Access: GET /register from ::1
+[2026-02-17 10:34:49] INFO: UserService initialized
+[2026-02-17 10:34:49] INFO: Access: GET /register from ::1
+[2026-02-17 10:34:49] INFO: UserService initialized
+[2026-02-17 10:34:55] INFO: Access: GET /register from ::1
+[2026-02-17 10:34:55] INFO: UserService initialized
+[2026-02-17 10:34:55] INFO: Access: GET /register from ::1
+[2026-02-17 10:34:55] INFO: UserService initialized
+[2026-02-17 10:34:55] INFO: Access: GET /register from ::1
+[2026-02-17 10:34:55] INFO: UserService initialized
+[2026-02-17 10:36:35] INFO: Access: GET /register from ::1
+[2026-02-17 10:36:35] INFO: UserService initialized
+[2026-02-17 10:36:35] INFO: Access: GET /register from ::1
+[2026-02-17 10:36:35] INFO: UserService initialized
+[2026-02-17 10:36:35] INFO: Access: GET /register from ::1
+[2026-02-17 10:36:35] INFO: UserService initialized
+[2026-02-17 10:36:35] INFO: Access: GET /register from ::1
+[2026-02-17 10:36:35] INFO: UserService initialized
+[2026-02-17 10:37:20] INFO: Access: GET /register from ::1
+[2026-02-17 10:37:20] INFO: UserService initialized
+[2026-02-17 10:37:20] INFO: Access: GET /register from ::1
+[2026-02-17 10:37:20] INFO: UserService initialized
+[2026-02-17 10:37:21] INFO: Access: GET /register from ::1
+[2026-02-17 10:37:21] INFO: UserService initialized
+[2026-02-17 10:37:37] INFO: Access: GET /register from ::1
+[2026-02-17 10:37:37] INFO: UserService initialized
+                                                                                                                                                               

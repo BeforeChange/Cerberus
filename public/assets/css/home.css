@@ -1,0 +1,18 @@
+/* Augmente la hauteur du carousel */
+#myCarousel,
+#myCarousel .carousel-inner,
+#myCarousel .carousel-item svg {
+    min-height: 450px; /* tu peux augmenter encore si nécessaire */
+}
+
+/* Ajoute de l'espace entre le carousel et les featurettes */
+.featurette-divider {
+    margin-top: 3rem; /* espace au-dessus */
+    margin-bottom: 0rem; /* espace en dessous */
+}
+
+/* Ajoute un petit espacement vertical aux featurettes */
+.row.featurette {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
